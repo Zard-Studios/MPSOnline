@@ -18,7 +18,17 @@ Nel frattempo scarichiamo il file FirmKey.zip nella pagina [Release](https://git
 ## Secondo Step
 Segui questo video tutorial...
 
+https://user-images.githubusercontent.com/96824937/233171076-76940dc0-f05d-45d7-a6d0-ac5760bc2737.mp4
+
+## Step Finale
+Adesso dobbiamo scaricare un file leggermente pesante (questo file è il gioco ovviamente).
+Scarica il file [qui](https://drive.google.com/file/d/1cKCDiRr9aJZ5bDTFTP9nZIRujreymZ1b/view?usp=share_link)
+e guarda questo video...
+
+https://user-images.githubusercontent.com/96824937/233200325-50375d07-32aa-49ab-84f0-69736297d91f.mp4
+
+Buon divertimento!
+
 
 # informazione di base.
 Se c'è qualche problema a riguardo, vi invito a segnalarcelo nella categoria [Issues](https://github.com/Zard-Studios/MPSOnline/issues) di GitHub.
-Invece se c'è
