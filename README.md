@@ -2,6 +2,7 @@
 MPSOnline, è un progetto eseguibile tramite l'emulatore ryujinx, leggi ancora per seguire passo dopo passo l'istallazione.
 
 # Guida all'installazione.
+
 Se hai già installato Ryujinx e hai messo anche il Firmware e la chiave puoi saltare i primi 2 Step.
 ## Primo step.
 Prima di tutto serve un programma per far funzionare alcuni tipi di file nel progetto (nel prossimo step vedremo come usare questi file e come scaricarli).
