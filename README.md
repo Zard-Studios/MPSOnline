@@ -36,6 +36,7 @@ Quando entri nel gioco locale con delle persone e inizi a giocare compare sempre
 si è verificato un errore di comunicazione.
 ```
 Questo è causato dalla compilazione shaders o FPS bassi, assicurati di avere i requisiti minimi per eseguire Ryujinx e di aver compilato abbastanza shaders prima di giocare al gioco in locale.
+Per ulteriori informazioni controlla [qui](https://github.com/Ryujinx/Ryujinx/wiki/Multiplayer-(LDN-Local-Wireless)-Guide)
 
 # informazione di base.
 Se c'è qualche problema a riguardo, vi invito a segnalarcelo nella categoria [Issues](https://github.com/Zard-Studios/MPSOnline/issues) di GitHub.
