@@ -10,7 +10,7 @@ Installiamo il seguente programma:
 ```
 Ryujinx
 ```
-Scaricalo [qui](https://ryujinx.org/download)
+Scaricalo [qui](https://ryujinx.app/download)
 
 (Ryujinx è un emulatore di [NS](https://www.acronymfinder.com/Nintendo-Switch-(NS).html)2017[ED](https://www.acronymfinder.com/Edition-(ED).html)).
 
